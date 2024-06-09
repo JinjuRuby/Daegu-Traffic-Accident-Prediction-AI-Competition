@@ -1,1 +1,1 @@
-# Daegu-Traffic-Accident-Prediction-AI-Competition
+# 대구 교통사고 피해 예측 AI 경진대회(https://dacon.io/competitions/official/236193/overview/description)
